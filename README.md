@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ashish Pani</h1>
-<h3 align="center">A guy passionate about technology and code</h3>
+<h3 align="center">Passionate about technology and code</h3>
 
 <p align="left"> <a href="https://twitter.com/ashishpani98" target="blank"><img src="https://img.shields.io/twitter/follow/ashishpani98?logo=twitter&style=for-the-badge" alt="ashishpani98" /></a> </p>
 
