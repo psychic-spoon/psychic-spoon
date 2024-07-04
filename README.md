@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/ashishpani98" target="blank"><img src="https://img.shields.io/twitter/follow/ashishpani98?logo=twitter&style=for-the-badge" alt="ashishpani98" /></a> </p>
 
-- 🌱 I’m currently learning Go and Rust
+- 🌱 I’m currently learning Rust
   
 - 💬 Ask me about Go and Kubernetes
 
