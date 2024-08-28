@@ -35,7 +35,7 @@
         <img src="https://github.com/web3/web3.js/blob/1.x/assets/logo/web3js.jpg?raw=true" alt="web3.js" width="35" height="35"/> 
     </a>  -->
     <a href="https://go.dev/" target="_blank" rel="noreferrer"> 
-        <img src="https://camo.githubusercontent.com/0d7633d0e4571f4b9800a6aa104d03386a86df5c33b4650d7dce88a6de1c8904/68747470733a2f2f7261772e6769746875622e636f6d2f676f6c616e672d73616d706c65732f676f706865722d766563746f722f6d61737465722f676f706865722e706e67" alt="bootstrap" width="40" height="40"/> 
+        <img src="https://go.dev/images/go-logo-blue.svg" alt="golang" width="50" height="50"/> 
     </a> 
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
